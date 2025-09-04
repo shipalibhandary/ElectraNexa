@@ -19,3 +19,17 @@ This is a simple PHP + MySQL based e-commerce website where users can:
 
 ---
 
+## 📸 Screenshots
+
+### 🛍️ Home Page
+![Home Page](screenshots/FirstPage.png)  
+
+### 🛍️ cart Page
+![Home Page](screenshots/cart.png)
+
+### Add to Cart Button
+![Cart Page](screenshots/AddToCartButton.png)  
+
+### Final Bill
+![Home Page](screenshots/FinalBill.png)
+
