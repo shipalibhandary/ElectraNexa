@@ -25,10 +25,10 @@ This is a simple PHP + MySQL based e-commerce website where users can:
 <img src="screenshots/FirstPage.png" alt="Home Page" height="500" width="500"/>
 
 ### 🛍️ cart Page
-<img src="screenshots/cart.png" alt="Cart Page" height="500" width="300"/>
+<img src="screenshots/cart.png" alt="Cart Page" height="300" width="300"/>
 
 ### 🛒 Add to Cart Button
-<img src="screenshots/AddToCartButton.png" alt="Add To Cart" height="300" width="600"/>
+<img src="screenshots/AddToCartButton.png" alt="Add To Cart" height="200" width="600"/>
 
 ### 🧾 Final Bill
 <img src="screenshots/FinalBill.png" alt="Bill Page" height="500" width="600"/>
