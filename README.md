@@ -33,4 +33,9 @@ This is a simple PHP + MySQL based e-commerce website where users can:
 ### 🧾 Final Bill
 <img src="screenshots/FinalBill.png" alt="Bill Page" height="500" width="600"/>
 
+---
+
+## 👩‍💻 Author
+Built by Shipali, Nindhya Amin, Shivani S
+
 
