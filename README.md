@@ -22,7 +22,7 @@ This is a simple PHP + MySQL based e-commerce website where users can:
 ## 📸 Screenshots
 
 ### 🛍️ Home Page
-![Home Page](screenshots/FirstPage.png)  
+<img src="screenshots/FirstPage.png" alt="Home Page" height="500" width="500"/>
 
 ### 🛍️ cart Page
 ![Home Page](screenshots/cart.png)
@@ -31,5 +31,5 @@ This is a simple PHP + MySQL based e-commerce website where users can:
 ![Cart Page](screenshots/AddToCartButton.png)  
 
 ### Final Bill
-![Home Page](screenshots/FinalBill.png)
+![Final Bill Page](screenshots/FinalBill.png)
 
