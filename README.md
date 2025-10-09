@@ -36,6 +36,7 @@ This is a simple PHP + MySQL based e-commerce website where users can:
 ---
 
 ## 👩‍💻 Author
-Built by Shipali, Nindhya Amin, Shivani S
+Built by Shipali, Nindhya Amin, Shivani S 
+
 
 
